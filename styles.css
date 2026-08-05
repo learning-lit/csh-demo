@@ -1,0 +1,19 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2 {
+    background-color: lightblue;
+    color: red;
+    font-family: fantasy;
+}
+
+ul {
+    background-color: brown;
+    color: whitesmoke;
+}
