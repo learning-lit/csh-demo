@@ -1,27 +1,25 @@
-# Creating NodeJS and/or Web programs in Codio
+# CSH Website Demo
 
-### Make a new file
-Use **File > New File...** or right-click in the file tree to create a new file. You can right-click in the file tree to rename or delete files.
+### Webpage Links (pre-CSS)
+https://learning-lit.github.io/csh-demo/careers.html
+https://learning-lit.github.io/csh-demo/hardware.html
+https://learning-lit.github.io/csh-demo/ai-art.html
+https://learning-lit.github.io/csh-demo/network.html
+https://learning-lit.github.io/csh-demo/ethics.html
+https://learning-lit.github.io/csh-demo/debugging.html
 
-As Codio detects which file is in focus, simply put your cursor into whichever code editor you want to preview and use the "Preview Current File".
+### Webpage Links (with CSS)
+https://learning-lit.github.io/csh-demo/careers-styled.html
+https://learning-lit.github.io/csh-demo/hardware-styled.html
+https://learning-lit.github.io/csh-demo/ai-art-styled.html
+https://learning-lit.github.io/csh-demo/ethics-styled.html
+https://learning-lit.github.io/csh-demo/debugging-styled-v1.html
 
-### View site or Current file
-Use the Preview button (with the "play" icon) to see a preview of the website.
-
-![](https://global.codio.com/platform/readme.resources/PreviewMenuWeb.png)
-
-Use the drop-down arrow to the right of the "Preview Website" option to change the button to view the current file. You can also configure your preview button to open the preview as a new tab inside Codio, or as a new tab in your browser.
-
-### Running Node
-Use the Run button (with the "rocketship" icon) to start the current NodeJS file. To stop node, press ctrl + c in the terminal.
-
-### Debug your Code
-Use the "Debug Current NodeJS File" on the far right of the top menu bar to launch the debugger targeting the NodeJS file your cursor is in.
-
-Use your browser's built in Developer Tools to debug other web projects such as HTML/CSS.
-
-### Reconfigure your Panels for easier development
-Use the **View > Panels** menu on the top tool bar to segment your screen.
-
-Simply drag the tab of the file or terminal (the part with the name) you want to move into the new panel.
-
+### Webpage Links (JS)
+https://learning-lit.github.io/csh-demo/syntax.html
+https://learning-lit.github.io/csh-demo/story.html
+https://learning-lit.github.io/csh-demo/grades.html
+https://learning-lit.github.io/csh-demo/login-v1.html
+https://learning-lit.github.io/csh-demo/login-v2.html
+https://learning-lit.github.io/csh-demo/modulo.html
+https://learning-lit.github.io/csh-demo/grocery-list.html
