@@ -3,6 +3,7 @@ body {
 }
 
 h1 {
+    text-align: center;
     color: blue;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
@@ -11,9 +12,28 @@ h2 {
     background-color: lightblue;
     color: red;
     font-family: fantasy;
+    margin-right: 200px;
+    border-style: double;
+    padding: 10px;
 }
 
 ul {
     background-color: brown;
     color: whitesmoke;
+    display: flexbox;
+    margin-right: 100px;
+    margin-left: 10px;
+    padding: 10px;
+}
+
+li {
+    margin-left: 15px;
+}
+
+img {
+    border-style: solid;
+    border-color: brown;
+    border-width: 10px;
+    max-width: 100%;
+    max-height: auto;
 }
